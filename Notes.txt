@@ -1,0 +1,13 @@
+##############################
+DUT Device
+===========
+ip address - 10.85.162.30
+username - labroot
+password - lab123
+##############################
+Khoi Server
+===========
+ip address - 10.85.28.31
+username - jigar
+password - Juniper!
+##############################
